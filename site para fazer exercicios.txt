@@ -1,1 +1,3 @@
 exerciciosresolvidos.com.br/exercicios-de-requisitos-de-software-funcionais-e-nao-funcionais
+http://agilemanifesto.org/iso/ptbr/manifesto.html
+https://trello.com/pt-BR
